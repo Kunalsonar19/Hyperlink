@@ -62,7 +62,7 @@ body {
 .gradient-cards {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 32px;
+  gap: 40px;
   padding: 30px;
 
   @media screen and (max-width: 991px) {
@@ -82,8 +82,8 @@ body {
 
 @media screen and (max-width: 991px) {
   .container-title {
-    font-size: 32px;
-    line-height: 48px;
+    font-size: 50px;
+    line-height: 1.7;
   }
 
 }
